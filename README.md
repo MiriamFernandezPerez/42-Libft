@@ -1,4 +1,5 @@
-# 📚 Libft - Biblioteca Personal en C
+# 📚 Libft
+## *Biblioteca Personal en C*
 
 ---
 
